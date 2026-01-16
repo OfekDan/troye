@@ -1,6 +1,8 @@
-# TROYE: NSBH waveforms with a late-inspiral phase transition (Bilby)
+# TROYE: Transitional Representation Of varYing Equation-of-state
 
-This repository contains a lightweight **phenomenological** waveform model, **TROYE** (Transitional Representation Of varYing Equation-of-state), built to simulate a **rapid change in the neutron-star tidal deformability** during a neutron-star–black-hole (NSBH) inspiral.
+![troye logo](assets/troye-logo-02.png)
+
+This repository contains a lightweight **phenomenological** waveform model, **TROYE**, built to simulate a **rapid change in the neutron-star tidal deformability** during a neutron-star–black-hole (NSBH) inspiral.
 
 At its core, TROYE:
 
