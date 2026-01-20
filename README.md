@@ -94,7 +94,7 @@ python demo.py
 
 ---
 
-## Model definition (paper-consistent)
+## Model definition
 
 TROYE assumes the strain can be represented by two baseline tidal responses,
 
