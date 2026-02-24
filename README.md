@@ -189,6 +189,6 @@ This is useful for Bayes-factor comparisons between a transitional hypothesis an
 
 ## Citation
 
-If you use or adapt this implementation in academic work, please cite the accompanying [TROYE paper]([https://dcc.ligo.org/P2600001](https://arxiv.org/abs/2602.18105)) (O. Dan, O. Birnholtz, 2026) that describes the stitching construction and inference setup.
+If you use or adapt this implementation in academic work, please cite the accompanying [TROYE paper](https://arxiv.org/abs/2602.18105) (O. Dan, O. Birnholtz, 2026) that describes the stitching construction and inference setup.
 DOI: 10.48550/arXiv.2602.18105
 The full results catalog of the simulation campaign descirbed in the paper is given [here](paper_results/Catalog.pdf).
